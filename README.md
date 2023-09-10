@@ -1,6 +1,6 @@
 # Duplicate File Finder
 
-A user-friendly GUI tool designed to help you find and manage duplicate files on your system. Built with Python and PyQt5, the tool provides a range of options from filtering search criteria to multiple file deletion methods.
+A user-friendly GUI tool designed to help you find and manage duplicate files on your system. Built with Python and PyQt5, the tool provides a range of options from filtering search criteria to multiple file deletion methods. This tool uses file hash (SHA-256) to compare file contents.
 
 ## Features:
 
